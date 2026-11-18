@@ -1,7 +1,7 @@
 name: 'WP HealthKit Audit'
 # NOTE: Keep the layer count in sync with TOTAL_VERIFICATION_LAYERS in
-# src/lib/marketing/scanner-counts.ts (currently 62 = 58 deterministic + 4 AI).
-description: 'AI-powered security & quality audit for WordPress plugins — 62 verification layers including Wordfence CVEs, PHPCS, PHPStan, Semgrep, Psalm, and 4 AI engines'
+# src/lib/marketing/scanner-counts.ts (currently 63 = 59 deterministic + 4 AI).
+description: 'AI-powered security & quality audit for WordPress plugins — 63 verification layers including Wordfence CVEs, PHPCS, PHPStan, Semgrep, Psalm, and 4 AI engines'
 branding:
   icon: 'shield'
   color: 'green'
